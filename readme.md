@@ -1,5 +1,6 @@
 # UTD Girls Who Code Spaghetti Code event - "Hello World" #
 ## Compiling your code ##
+hacked
 ```
 g++ -o hello-world hello-world.cpp
 ```
