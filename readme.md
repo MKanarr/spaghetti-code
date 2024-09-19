@@ -33,3 +33,6 @@ You are welcome to use your favorite IDE/editor/language
 Setting up git - https://docs.github.com/en/get-started/quickstart/set-up-git
 
 Granting repo access - https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository
+
+## Helpful ##
+Git Cheat Sheet - https://about.gitlab.com/images/press/git-cheat-sheet.pdf
